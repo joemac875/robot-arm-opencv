@@ -1,5 +1,7 @@
 
-#Joe MacInnes 2015
+#Created by Joe MacInnes 2015
+#Version:  2.0
+#LACKING COMMENTS!
 
 import numpy as np
 import cv2
